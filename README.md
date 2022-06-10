@@ -14,7 +14,8 @@
     1. Deployment
     2. ClusterIP
     3. Ingress
-4. App is deployed on an **Azure Kubernetes Cluster (AKS)** [20.121.167.232](http://20.121.167.232/)
+4. App **was** deployed on an **Azure Kubernetes** Cluster 
+    - Sponsor me and you will enjoy state of the art violin playing that i do not get 🎻 😵‍💫
 
 ## How to run
 - Docker file
